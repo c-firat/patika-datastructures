@@ -18,4 +18,4 @@
 #### **Step5**:
 [2,6,16,18, 22 | 27] 22 - none
 
-### Time complexity: O($n^2$)
+### Time complexity: O(n^2)

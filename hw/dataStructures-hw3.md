@@ -54,5 +54,5 @@
             left of 5: 1                    right of 5: 6           left of 8: 3        right of 8: 9
     left of 5: 0    right of 1: 4   left of 6: 2
 
-### Time complexity: O($n$)
+### Time complexity: O(n)
 

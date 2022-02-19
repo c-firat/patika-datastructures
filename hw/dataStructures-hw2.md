@@ -21,5 +21,5 @@
 #### **Step6**
 [8,11,12,16,21,22]
 
-### Time complexity: O($nlog(n)$)
+### Time complexity: O(nlog(n))
 
